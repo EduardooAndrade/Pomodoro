@@ -1,6 +1,6 @@
 # Pomodoro
 
-Focustimer criado na Trilha Explorer da RocketSeat
+Focustimer criado na Trilha Explorer da RocketSeat, com funcionalidade de música
 
 ## Tecnologias 
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
